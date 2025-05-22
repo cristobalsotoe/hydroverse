@@ -1,0 +1,26 @@
+
+# hydroverse
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of hydroverse is to ...
+
+## Installation
+
+You can install the development version of hydroverse from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("pak")
+pak::pak("cristobalsotoe/hydroverse")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(hydroverse)
+## basic example code
+```
+
