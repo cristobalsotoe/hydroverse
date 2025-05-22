@@ -1,0 +1,17 @@
+Package: hydroverse
+Title: Hydrological Analysis Tools
+Version: 0.0.0.9
+Authors@R: person("Cristóbal", "Soto", email = "cristobal.soto.9@gmail.com", role = c("aut", "cre"))
+Description: Tools for hydrological data analysis and modeling.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+LazyData: true
+Depends: R (>= 4.0.0)
+Imports: dplyr, ggplot2, lubridate, tidyr, sf, terra, hydroRTS, hydroGOF, tidyplots, tidyverse, RColorBrewer
+Suggests: 
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+Config/testthat/edition: 3
