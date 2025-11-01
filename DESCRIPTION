@@ -9,7 +9,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 LazyData: true
 Depends: R (>= 4.0.0)
-Imports: dplyr, ggplot2, lubridate, tidyr, sf, terra, hydroRTS, hydroGOF, tidyplots, tidyverse, RColorBrewer
+Imports: dplyr, ggplot2, lubridate, tidyr, sf, terra, hydroGOF, tidyplots, tidyverse, RColorBrewer, tmap
 Suggests: 
     testthat (>= 3.0.0),
     knitr,
